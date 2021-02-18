@@ -7,5 +7,9 @@
 </a>
 
 <a href="https://github.com/HRahman1777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/HRahman1777">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HRahman1777&show_icons=true&theme=radical&line_height=27" alt="HRahman1777's github stats"/>
 </a>
