@@ -2,7 +2,7 @@
  <a href="https://github.com/HRahman1777"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=HRahman1777&style=plastic&color=blueviolet" width="125"/></a>
  
 ----
-
+<!---
 📊 **Activities**
 
 <a href="https://github.com/HRahman1777">
@@ -10,8 +10,9 @@
 </a>
 
 <br>
+-->
 
-This week I spent my time on
+Based on VS Code I spent my time on
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
 
@@ -23,5 +24,5 @@ This week I spent my time on
 
 ----
 
->Last Edited: 20-02-2021 by [HRahman1777](https://github.com/HRahman1777)
+>Last Edited: 23-08-2021 by [HRahman1777](https://github.com/HRahman1777)
 ----
