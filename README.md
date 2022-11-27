@@ -1,13 +1,17 @@
+<!-- ![Github Banner](assets/github-banner.png) -->
+
 ## Assalamu_alaikum, <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px">
- <a href="https://github.com/HRahman1777"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=HRahman1777&style=plastic&color=blueviolet" width="125"/></a>
+<p align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><a href="https://github.com/HRahman1777"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=HRahman1777&style=plastic&color=blueviolet" width="125"/></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+</p>
 
 I believe in three words LEARN, SOLVE, DEVELOP
 
-<!--
+
 Based on VS Code I spent my time on
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
--->
+
 
 <h4>Connect with me:</h4>
 <a href="mailto:hasibur.cse7@gmail.com"><img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/></a>
