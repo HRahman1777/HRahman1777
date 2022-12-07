@@ -42,6 +42,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRahman1777&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HRahman1777&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)]([https://git.io/streak-stats](https://github.com/HRahman1777))
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRahman1777&count_private=true&show_icons=true&theme=radical)](https://github.com/HRahman1777) -->
 
