@@ -12,16 +12,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=25&duration=1500&pause=1000&color=8A38D5&width=250&lines=%F0%9F%93%9DA+Learner.....+;%F0%9F%A4%93+A+Programmer.....+;%F0%9F%95%B5%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F+An+Explorer.....)](https://git.io/typing-svg)
 <hr>
 
-## 👨‍💻 About Me
-* Software Engineer ....
+## 🙋‍♂️ About Me 
+* Software Engineer at Walton Hi-Tech Industries PLC.
+* I always try to be better than the one that I was yesterday as a HUMAN and as an Engineer. 
 * I love to explore new technologies and try to implement what I am thinking. 
-* Solving problems always interested me.
-* I believe in three words LEARN, SOLVE, DEVELOP
+* Solving problems always interested me whether it is personal or professional.
+* My most used and favorite language is PHP and C/C++ then Python and JavaScript.
 
 ##  ⚙️ Tools & Technologies
 
 <p align="left">
-<a href="https://github.com/HRahman1777">
+
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23FF9900.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -37,14 +38,18 @@
 <img alt="Vue" src="https://img.shields.io/badge/vue%20-%23563D7C.svg?&style=for-the-badge&logo=vue&logoColor=white"/>
 <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23563D7C.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
+
 </p>
 
-##  Based on VS Code I spent my time on
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRahman1777&langs_count=5&hide=css,html&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRahman1777&count_private=true&show_icons=true&theme=radical)](https://github.com/HRahman1777) -->
+
+## 👨‍💻 Based on VS Code I spent my time on
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
 
 
-##  ⚙️ Contact
+##  📶 Connect
 <a href="mailto:hasibur.cse7@gmail.com"><img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/></a>
 <a href="https://www.linkedin.com/in/hasibur1777/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
 <a href="https://HRahman1777.github.io/" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/50/000000/external-website-advertising-kiranshastry-lineal-kiranshastry.png"/></a>
