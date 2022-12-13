@@ -49,9 +49,13 @@
 ## 👨‍💻 Based on VS Code I spent my time on
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HRahman1777&layout=compact&theme=radical&count_private=true)](https://github.com/HRahman1777)
 
-
-##  📶 Connect
+## 📶 Connect with me
+<p align="left">
 <a href="mailto:hasibur.cse7@gmail.com"><img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/></a>
 <a href="https://www.linkedin.com/in/hasibur1777/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
-<a href="https://HRahman1777.github.io/" target="_blank"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/50/000000/external-website-advertising-kiranshastry-lineal-kiranshastry.png"/></a>
+<a href="https://HRahman1777.github.io/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/geography.png"/></a>
+</p>
+
+## ❤️ Support
+<p><a href="https://www.buymeacoffee.com/hasibur1777"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasibur1777" /></a></p><br><br>
 
