@@ -52,8 +52,8 @@
 ## 📶 Connect with me
 <p align="left">
 <a href="mailto:hasibur.cse7@gmail.com"><img src="https://img.icons8.com/ios/50/000000/apple-mail.png"/></a>
-<a href="https://www.linkedin.com/in/hasibur1777/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
-<a href="https://HRahman1777.github.io/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/geography.png"/></a>
+<a href="https://www.linkedin.com/in/hasibur1777/"  target="blank" ><img src="https://img.icons8.com/ios/50/000000/linkedin.png"/></a>
+<a href="https://HRahman1777.github.io/"  target="blank" ><img src="https://img.icons8.com/ios/50/000000/geography.png"/></a>
 </p>
 
 ## ❤️ Support
